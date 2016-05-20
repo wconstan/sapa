@@ -1,10 +1,8 @@
 Package: sapa
-Type: Package
 Title: Spectral Analysis for Physical Applications
-Version: 2.0-1
-Author: William Constantine and Donald Percival (Applied Physics
-        Laboratory, University of Washington)
-Maintainer: Don Percival <dbp@apl.washington.edu>
+Version: 2.0-2
+Authors@R: c(person("William", "Constantine", email = "wlbconstan@gmail.com", role = c("cre", "aut")),
+             person("Donald", "Percival", email = "dbp@apl.washington.edu", role = "aut"))
 Depends: R (>= 3.0.2)
 Description: Software for the book Spectral Analysis for Physical
         Applications, Donald B. Percival and Andrew T. Walden,
@@ -13,5 +11,3 @@ License: GPL-2
 Imports: ifultools (>= 2.0-0), splus2R (>= 1.2-0)
 Repository: CRAN
 NeedsCompilation: yes
-Packaged: 2015-01-31 17:27:22 UTC; root
-Date/Publication: 2015-02-15 07:35:46

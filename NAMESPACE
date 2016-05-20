@@ -9,6 +9,7 @@ useDynLib(sapa, R_sapa_dpss)
 ###
 import(ifultools)
 import(splus2R)
+
 ###
 # S3 Generics
 ###
