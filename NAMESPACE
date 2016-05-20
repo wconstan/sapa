@@ -10,6 +10,10 @@ useDynLib(sapa, R_sapa_dpss)
 import(ifultools)
 import(splus2R)
 
+importFrom("graphics", "lines", "par")
+importFrom("methods", "is")
+importFrom("stats", "deltat")
+
 ###
 # S3 Generics
 ###

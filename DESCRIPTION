@@ -8,6 +8,8 @@ Description: Software for the book Spectral Analysis for Physical
         Applications, Donald B. Percival and Andrew T. Walden,
         Cambridge University Press, 1993.
 License: GPL-2
-Imports: ifultools (>= 2.0-0), splus2R (>= 1.2-0)
-Repository: CRAN
+Imports: 
+  ifultools (>= 2.0-0), 
+  splus2R (>= 1.2-0),
+  methods
 NeedsCompilation: yes
