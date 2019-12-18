@@ -13,3 +13,5 @@ Imports:
   splus2R (>= 1.2-0),
   methods
 NeedsCompilation: yes
+URL: https://github.com/wconstan/sapa
+Bugreports: https://github.com/wconstan/sapa/blob/master/GUGREPORTS
